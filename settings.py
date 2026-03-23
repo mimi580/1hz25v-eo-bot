@@ -129,7 +129,7 @@ MARTINGALE_FACTOR   = 1.89
 MARTINGALE_AFTER    = 1        # step up after 3 consecutive losses
 MARTINGALE_MAX_STEP = 4
 
-TARGET_PROFIT       = 10.0
+TARGET_PROFIT       = 100.0
 STOP_LOSS           = 20.0
 
 # Short cooldown — digit contracts settle in 5 ticks (~5 seconds)
